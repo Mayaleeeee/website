@@ -46,6 +46,18 @@
                 }
             },
             {
+                "title": "AsyncApi.Net.Generator",
+                "description": "Code-first AsyncAPI documentation generator and ui",
+                "links": {
+                    "repoUrl": "https://github.com/yurvon-screamo/asyncapi.net"
+                },
+                "filters": {
+                    "language": "C#",
+                    "technology": [".NET", "ASP.NET"],
+                    "categories": ["code-first"]
+                }
+            },
+            {
                 "title": "Saunter",
                 "description": "Saunter is an AsyncAPI documentation generator for dotnet. Generates (and hosts) an AsyncAPI schema document from your code.",
                 "links": {
@@ -140,6 +152,19 @@
                     "language": "C#",
                     "technology": [".NET"],
                     "categories": ["code-first"]
+                }
+            },
+            {
+                "title": "FastStream",
+                "description": "A powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ and NATS.",
+                "links": {
+                    "websiteUrl": "https://faststream.airt.ai",
+                    "repoUrl": "https://github.com/airtai/FastStream"
+                },
+                "filters": {
+                    "language": "Python",
+                    "categories": ["code-first", "framework"],
+                    "hasCommercial": false
                 }
             }
         ]
@@ -316,7 +341,8 @@
                 "title": "Bump.sh",
                 "description": "OpenAPI 2 & 3 / AsyncAPI 2 documentation generator, with automatic changelog and visual diff.",
                 "links": {
-                    "websiteUrl": "https://bump.sh/"
+                    "websiteUrl": "https://bump.sh/",
+                    "docsUrl": "https://docs.bump.sh/help/"
                 },
                 "filters": {
                     "categories": ["documentation-generator"],
@@ -403,6 +429,19 @@
                     "language": "Python",
                     "technology": ["Flask"],
                     "categories": ["framework"]
+                }
+            },
+            {
+                "title": "FastStream",
+                "description": "A powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ and NATS.",
+                "links": {
+                    "websiteUrl": "https://faststream.airt.ai",
+                    "repoUrl": "https://github.com/airtai/FastStream"
+                },
+                "filters": {
+                    "language": "Python",
+                    "categories": ["code-first", "framework"],
+                    "hasCommercial": false
                 }
             }
         ]
