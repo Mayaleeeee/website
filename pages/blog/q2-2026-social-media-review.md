@@ -1,6 +1,8 @@
+<img width="1906" height="1232" alt="Blog Title-selection" src="https://github.com/user-attachments/assets/43229771-3698-4710-ba0c-452433b8db72" />
+
+
 ---
-Title: 'Engineering the Feed: Lessons from AsyncAPI’s Multi-Channel Distribution Framework (March – July 2026)'
-Description: 'A data-driven review of AsyncAPIs cross-channel social media performance and distribution architecture.'
+Engineering the Feed: Lessons from AsyncAPI’s Multi-Channel Distribution Framework (March – July 2026)
 ---
 
 In open-source developer relations, there is a common misconception that social media is just a megaphone for project announcements. You build a cool feature, you write a tweet, you post a LinkedIn update, and you hope developers click. 
