@@ -1,8 +1,15 @@
-<img width="534" height="346" alt="img 1" src="https://github.com/user-attachments/assets/7fc5f7d3-327c-4334-b6f3-44ace56441ec" />
-
-
 ---
-Engineering the Feed: Lessons from AsyncAPI’s Multi-Channel Distribution Framework (March – July 2026)
+title: "Engineering the Feed: Lessons from AsyncAPI's Multi-Channel Distribution Framework (March – July 2026)"
+date: 2026-07-22T10:00:00+01:00
+type: Communication
+tags:
+  - Community
+  - Marketing
+cover: /img/posts/q2-2026-social-media-review.webp
+authors:
+  - name: Aishat Muibudeen
+    photo: /img/avatars/maya_picture.webp
+    link: https://github.com/Mayaleeeee
 ---
 
 In open-source developer relations, there is a common misconception that social media is just a megaphone for project announcements. You build a cool feature, you write a tweet, you post a LinkedIn update, and you hope developers click. 
@@ -19,7 +26,7 @@ By stepping away from traditional corporate marketing fluff and treating distrib
 
 When you stop treating developers like a marketing funnel, engagement metrics shift dramatically. Between March and July 2026, our organic content engine hit significant cross-channel visibility:
 
-*   **Total Ecosystem Visibility:** **40,151 Combined Impressions** across our primary developer touchpoints.
+*   **Total Ecosystem Visibility:** **38,115 Combined Impressions** across our primary developer touchpoints.
 *   **High-Intent Actions:** **1,465 Direct Link Clicks**, **757 Technical Reactions**, and **49 Core Comments**.
 *   **LinkedIn Architecture Depth:** Achieved a **6.89% average engagement rate**—obliterating the B2B tech industry average of 2%.
 *   **X (Twitter) Baseline:** Maintained a **2.92% engagement rate** across targeted technical announcements.
@@ -65,7 +72,7 @@ To keep our data entirely transparent, here is how our content pillars balanced 
 | **LinkedIn** | 29,684 Impressions | 2,248 Engagements | Long-form human narratives, career updates, and deep-dive technical breakdowns. |
 | **X (Twitter)** | 8,431 Impressions | 264 Engagements | Real-time ecosystem activation (e.g., our top post calling for global meetup organizers). |
 | **Mastodon** | *N/A (Decentralized)* | 5 Boost Shares | Pure, zero-fluff developer tooling updates and infrastructure merges. |
-| **Unified System** | **40,151 Impressions** | **2,517 Total Engagements** | **An optimized, multi-channel loop driven by organic engineering value.** |
+| **Unified System** | **38,115 Impressions** | **2,517 Total Engagements** | **An optimized, multi-channel loop driven by organic engineering value.** |
 
 ---
 
